@@ -1,7 +1,7 @@
 name: AquariaMasters
 favicon: null
-layout_spectrum: 0.24414
-typography_spectrum: 0.33423
+layout_spectrum: 0.50721
+typography_spectrum: 0.07477
 title: Aquaria Masters @ TheGrid
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#121212'
-    - '#496571'
-    - '#793f33'
-    - '#7d9dce'
-    - '#96e4e8'
+    - '#ffffff'
+    - '#0071ba'
+    - '#74b3d8'
+    - '#408fc1'
+    - '#52537f'
   brandStrength: 0.21597061934880912
   lightness: 0.8862236372660846
   saturation: 0.5196404710877687
