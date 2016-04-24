@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Aquaria Masters is now LIVE on TheGrid
-datePublished: '2016-04-24T02:50:42.885Z'
-dateModified: '2016-04-24T02:50:30.055Z'
+datePublished: '2016-04-24T03:15:42.973Z'
+dateModified: '2016-04-24T03:07:06.761Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-aquaria-masters-is-now-live-on-thegrid.md
