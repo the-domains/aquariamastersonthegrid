@@ -1,7 +1,7 @@
-name: AquariaMastersOnTheGrid
+name: AquariaMasters
 favicon: null
-layout_spectrum: 0.8960385953541845
-typography_spectrum: 0.6176926977932453
+layout_spectrum: 0.37748
+typography_spectrum: 0.06396
 title: On TheGrid
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#121212'
+    - '#496571'
+    - '#793f33'
+    - '#7d9dce'
+    - '#96e4e8'
   brandStrength: 0.21597061934880912
   lightness: 0.8862236372660846
   saturation: 0.5196404710877687
