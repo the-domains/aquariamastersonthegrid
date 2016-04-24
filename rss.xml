@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AquariaMastersOnTheGrid]]></title>
-        <description><![CDATA[AquariaMastersOnTheGrid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[AquariaMasters]]></title>
+        <description><![CDATA[AquariaMasters]]></description>
+        <link>https://thegrid.ai/aquariamastersonthegrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 00:56:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 02:14:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aquariamastersonthegrid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Aquaria Masters is now LIVE on TheGrid</p>]]></description>
+            <link>https://thegrid.ai/aquariamastersonthegrid/aquaria-masters-is-now-live-on-thegrid/index.html</link>
+            <guid isPermaLink="false">6881d9ed-565a-47f3-8976-ac7761e551a0</guid>
+            <pubDate>Sun, 24 Apr 2016 02:14:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5c2889c-d1f2-41b0-9efe-2da5befa6b5b.jpg">]]></description>
-            <link>undefinedcyberland/index.html</link>
+            <link>https://thegrid.ai/aquariamastersonthegrid/cyberland/index.html</link>
             <guid isPermaLink="false">e5a9a65a-7fee-4c46-b907-ca8863b07f67</guid>
             <pubDate>Sun, 24 Apr 2016 00:56:29 GMT</pubDate>
         </item>
